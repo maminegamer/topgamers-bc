@@ -45,7 +45,7 @@ m.sendMessage(args)
 });
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag} !`);
-          client.user.setActivity("topgamers",{type: 'WATCHING'});
+          client.user.setActivity("playtimemc",{type: 'WATCHING'});
   
   });
 
@@ -1224,4 +1224,4 @@ const R = [
    message.react(":thinking:")
   }
 });
-client.login('NDY2NjM2NTY0MjE1MzY1NjY0.Die80g._iYUxvOzO2lB3z0gwzHv6H-yUzg');
+client.login('NDcyODM0OTE4NDgxNjU3ODc2.Dj5JzQ.5BKl0r7KdfVucLUtYXA1PmUihuE');
