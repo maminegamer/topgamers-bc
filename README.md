@@ -1,2 +1,0 @@
-# topgamers-bc
-lool
